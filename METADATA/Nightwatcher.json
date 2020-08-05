@@ -1,11 +1,10 @@
 {
+	"trax": "3rd",
 	"artist": "xxdbxx",
-	"genre": "dnb Rock",
+	"genre": "DnB Rock",
 	"subartists": [
-	    "lyrics:",
 	    "visualizer:Airborn",
-	    "visualizer:FE",
-	    "vocals:"
+	    "visualizer:FE"
 	],
 	"subtitle": "",
 	"title": "Night Watcher"

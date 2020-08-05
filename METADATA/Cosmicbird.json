@@ -1,10 +1,9 @@
 {
-	"artist": "FE & CROOVE",
+	"trax": "3rd",
+	"artist": "CROOVE & FE",
 	"genre": "SPACE TECHNO",
 	"subartists": [
-	    "lyrics:",
-	    "visualizer:FE",
-	    "vocals:"
+	    "visualizer:FE"
 	],
 	"subtitle": "",
 	"title": "Cosmic Bird"

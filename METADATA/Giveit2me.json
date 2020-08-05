@@ -1,10 +1,9 @@
 {
+	"trax": "3rd",
 	"artist": "FE",
 	"genre": "Acid Fusion",
 	"subartists": [
-	    "lyrics:",
-	    "visualizer:FE",
-	    "vocals:"
+	    "visualizer:FE"
 	],
 	"subtitle": "",
 	"title": "Give it 2 me"
